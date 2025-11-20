@@ -54,8 +54,4 @@ El diseño combina métricas clave y visualizaciones comparativas que permiten c
 
 ---
 
-## 📁 Estructura del repositorio
-
-
-## 📁 Estructura del repositorio
 
